@@ -1,0 +1,21 @@
+{
+  "items":
+          [
+            {
+              "catalogue": "Toys, for Kids and Babies",
+              "category": "Kits & Puzzles",
+              "specifiedCategory": "Puzzles",
+              "name": "Educa Puzzle Around the World 42000 pieces",
+              "description": "Jigsaw one of the more challenging ones, 42000 pieces in package, theme: Countries/Cities, characteristics: logical and for advanced users, suitable from 14 years",
+              "price": "9 349,-"
+            },
+            {
+              "catalogue": "Toys, for Kids and Babies",
+              "category": "Kits & Puzzles",
+              "specifiedCategory": "Puzzles",
+              "name": "Educa Puzzle Wilderness 33600 pieces",
+              "description": "Jigsaw one of the more challenging ones, 33600 pieces in package, theme: animals, characteristics: logical and for advanced users, suitable from 14 years",
+              "price": "6 979,-"
+            }
+          ]
+}
