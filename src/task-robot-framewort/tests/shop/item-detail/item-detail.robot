@@ -16,4 +16,3 @@ Add items to cart Test
     Specify Category    ${data}[items][0]
     Sort by             Price High to Low
     Add items to cart   ${data}[items]
-    
